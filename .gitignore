@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local application configuration and database
+company.db
+company.db-journal
+company.db-shm
+company.db-wal
